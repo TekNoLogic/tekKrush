@@ -3,7 +3,7 @@
 ## Title: tekKrush
 ## Notes: Yes, I really want to destroy that item, stop asking.
 ## Author: Tekkub Stoutwrithe
-## Version: Alpha
+## Version: 3.3.0.1
 ## X-Website: http://tekkub.net/
 ## X-Email: tekkub-wow@googlegroups.com
 ## X-Category: Misc
