@@ -1,7 +1,0 @@
-tekKrush simply automatically accepts the "Disenchanting this item will destroy it" dialog when selecting a DE roll in party.
-
-h2. Links
-
-<b>Visit "my site":http://tekkub.net/ for more great addons<br>
-Please report all bugs and feature requests to my "Github tracker":http://github.com/tekkub/tekKrush/issues<br>
-Please direct all feedback and questions to my "Google Groups":http://groups-beta.google.com/group/tekkub-wow mailinglist.</b>
